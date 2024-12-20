@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {font-family: "Work Sans", serif; background-color: goldenrod;}
-header {background-color: black; color: yellowgreen ;}
+header {background-color: black; color: yellowgreen ; width: 100%;}
 main {background-color: goldenrod; }
 main a:hover {text-decoration: none;}
 footer {background-color: blueviolet; color:darkgrey;}
