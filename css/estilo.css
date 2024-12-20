@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {font-family: "Work Sans", serif; background-color: goldenrod;}
+header {background-color: black; color: yellowgreen ;}
+main {background-color: goldenrod; }
+main a:hover {text-decoration: none;}
+footer {background-color: blueviolet; color:darkgrey;}
+
+h1 {margin-left:40px; color: deeppink;}
+a { color: white; text-decoration: none;}
+footer a {text-align:right;} /* Por qué no funciona??? */
+a:hover {color: deeppink; text-decoration:underline;}
